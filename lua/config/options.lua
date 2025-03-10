@@ -3,3 +3,5 @@
 -- Add any additional options here
 --
 vim.g.lazyivm_picker = "telescope"
+
+
